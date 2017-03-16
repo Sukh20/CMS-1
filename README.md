@@ -1,2 +1,2 @@
 # CMS
-Web bases conference mnagement system
+Web based conference mnagement system
